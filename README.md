@@ -1,97 +1,76 @@
-<h1 align="center">Hi 👋, I'm Mahder Eshetu</h1>
-<h3 align="center">
-Full-Stack Software Engineer | React | Node.js | MongoDB <br/>
-A passionate developer focused on building modern and scalable web applications
-</h3>
+<div align="center">
+
+# Hi 👋, I'm Mahder Eshetu
+
+### Full-Stack Software Engineer
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mahder--portfolio--eta.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mahder-portfolio-eta.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahder-eliyas)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m_mahder3472)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdermekdes@gmail.com)
+
+</div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **full-stack web applications**
-- 🤝 I’m looking to collaborate on **real-world projects**
-- 🌱 I’m currently improving my skills in **advanced frontend & backend development**
-- 💬 Ask me about **React, JavaScript, Node.js, and MongoDB**
-- ⚡ Fun fact: **I enjoy turning ideas into real products**
+
+- 💼 Full-Stack Software Engineer at **IZone Technology**
+- 🎓 BSc in Software Engineering — **Arba Minch University**
+- 🌍 Based in **Addis Ababa, Ethiopia** | Open to **Remote & Full-time Roles Worldwide**
+- 🔭 Currently building production-grade web applications with **Next.js & FastAPI**
+- 🤝 Looking to collaborate on **innovative software projects & digital products**
+- 💬 Ask me about **React, Next.js, TypeScript, FastAPI, Node.js, and Databases**
+- ⚡ Fun fact: **I enjoy turning ideas into real, working products**
 
 ---
 
-### 🌐 Connect with me
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/mahder-eliyas" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="35" height="35" style="margin-right: 10px;" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/m_mahder3472" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="35" height="35" style="margin-right: 10px;" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:mahdermekdes@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="35" height="35" />
-  </a>
+  <!-- Languages & Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  
+  <!-- Backend & Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/css/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-<a href="https://nodejs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-<a href="https://expressjs.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-<a href="https://www.mongodb.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-<a href="https://www.postgresql.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> 
-</a> 
-<a href="https://tailwindcss.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
-</a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> 
-</a> 
-<a href="https://www.figma.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> 
-</a> 
-</p>
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahder13&show_icons=true&theme=tokyonight&hide_border=true" alt="Mahder's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahder13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-### 📌 Featured Skills
-- Frontend: React.js, Next.js, Tailwind CSS
-- Backend: Node.js, Express.js, FastAPI
-- Database: MongoDB, MySQL, PostgreSQL
-- Tools: Git, Postman, Figma
+### 🌐 Live Portfolio
+
+Check out my full projects, architecture breakdowns, and interactive case studies:  
+👉 **[mahder-portfolio-eta.vercel.app](https://mahder-portfolio-eta.vercel.app)**
 
 ---
 
-### 📈 Goals
-- Build impactful real-world projects
-- Contribute to open source
-- Land a software engineering role or internship
-
----
+<div align="center">
+  <sub>⭐️ Thanks for visiting my GitHub! Let's connect and build something great.</sub>
+</div>
